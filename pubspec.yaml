@@ -1,0 +1,21 @@
+name: open_the_store
+description: "A Flutter plugin to open the app store page for your app on Android and iOS."
+version: 0.0.1
+homepage: https://github.com/lamnhan066/open_the_store
+
+environment:
+  sdk: ^3.9.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.5.0
+  mocktail: ^1.0.4
+  package_info_plus: ^8.3.1
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
