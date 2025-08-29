@@ -4,8 +4,8 @@ version: 0.0.1
 homepage: https://github.com/lamnhan066/open_the_store
 
 environment:
-  sdk: ^3.9.0
-  flutter: ">=1.17.0"
+  sdk: ">=3.2.0 <4.0.0"
+  flutter: 3.29.0
 
 dependencies:
   flutter:
